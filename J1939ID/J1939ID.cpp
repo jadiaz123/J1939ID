@@ -41,7 +41,7 @@ int main()
     cout << "EDP: " << id.getDP() << endl;
     cout << "Priority: " << id.getPriorityint() << endl;
     cout << "        1 |    4    |     F   |    E    |    F    |    1    |    3    |    1     | " << endl;
-    cout << "        1 | 1 0 0 1 | 0 0 0 0 | 0 0 0 1 | 1 0 0 1 | 1 0 0 1 | 1 0 0 1 | 1 0 0 1  | " << endl;
+    cout << "        1 | 0 1 0 0 | 1 1 1 1 | 1 1 1 0 | 1 1 1 1 | 0 0 0 1 | 0 0 1 1 | 0 0 0 1  | " << endl;
   
 }
 
